@@ -19,10 +19,10 @@ Clone the repository and run the installation script by typing `python setup.py 
 Once this module is installed, you can import and use it as you would any
 other Python module:
 
-"""
+```
 import pydmc
 dmc = PyDmc(apiUser,apiPass,apiUrl)
-"""
+```
 
 ## Caveat Emptor
 
